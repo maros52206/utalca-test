@@ -24,6 +24,7 @@ TypeScript
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias y/o paquetes del proyecto:
+ npm install
 3. Ejecute el comando
     ionic serve
 
