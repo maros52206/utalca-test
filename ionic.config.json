@@ -1,0 +1,7 @@
+{
+  "name": "utalca-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
